@@ -1,5 +1,6 @@
 # 📋 TaskEase — Web-Based Task Management System
 
+
 > A modular, role-based task management application built with **PHP** and **MySQL**, designed to streamline task assignment, progress tracking, and leave management in organizational environments.
 
 ![PHP](https://img.shields.io/badge/PHP-8.1-777BB4?style=flat&logo=php&logoColor=white)
